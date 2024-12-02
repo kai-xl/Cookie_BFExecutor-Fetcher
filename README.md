@@ -5,6 +5,8 @@ Used to fetch cookies from a provided website, and/or using a pre-defined wordli
 
 **(basicaly use this if a website is restricting your access due to you not having a certain cookie, or your wanting to scan for present cookies on the website.)**
 
+*Includes CLI based GUI for efficiency
+
 ### How to Use
 
 1. Install python if its not on your system:
