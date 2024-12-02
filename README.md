@@ -7,15 +7,15 @@ Used to fetch cookies from a given use provided website, and/or using a pre-defi
 
 ### How to Use
 
-1. Run the .py file:
+1. Install python if its not on your system:
    ```bash
-   python3
+   sudo apt update -y
    ```
-2. Enter the following arguments:
    ```bash
-   cd your-repo
+   sudo apt install python3 -y 
    ```
-3. Install dependencies:
+   
+2. Run the .py file:
    ```bash
-   npm install
+   python3 main
    ```
