@@ -17,5 +17,5 @@ Used to fetch cookies from a given use provided website, and/or using a pre-defi
    
 2. Run the .py file:
    ```bash
-   python3 main
+   python3 main.py
    ```
