@@ -1,7 +1,7 @@
 # Cookie_BFExecutor/Fetcher
 
 ### Usage
-Used to fetch cookies from a given use provided website, and/or using a pre-defined wordlist and error message to repetitively request the website until a *"success screen"* is present
+Used to fetch cookies from a provided website, and/or using a pre-defined wordlist and error message to repetitively request the website until a *"success screen"* is present
 
 **(basicaly use this if a website is restricting your access due to you not having a certain cookie, or your wanting to scan for present cookies on the website.)**
 
